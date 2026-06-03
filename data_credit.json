@@ -170,5 +170,12 @@
     "reg_date": "03-06-2026",
     "expired": "13-02-2026",
     "version": "1.0.0"
+ },
+ "BOB_Admin_1": {
+    "api_key": "WlVkT05VMHdOWEpVUmxKR1pVRnZPVHl0b2dzYTFPQW9idXI9Cgolaerolaer",
+    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNUV3g5MDkwb1VWcFY5MDkwb0VkV1JscHpZVVY0VWxaVVFYcFhWekExVlVobzkwOTBvbVZVVGpSWk0yc3hWVHl0b2dzYTkwOTBvOTA5MDAwd05IaGgKZWxaVlRWUm5lbFZ0TVhkUk1sWnpVMnhKU3dvYnVyPQoolaer",
+    "reg_date": "03-06-2026",
+    "expired": "13-02-2026",
+    "version": "1.0.0"
  }
 }
