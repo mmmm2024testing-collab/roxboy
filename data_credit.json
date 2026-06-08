@@ -26,10 +26,8 @@
   },
  "SBI_Admin_5": {
     "api_key": "WlVkT05VMHdOWEpVUmxKR1pVRnZPVHl0b2dzYTFPQW9idXI9Cgolaerolaer",
-    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNUV3g5MDkwb1VWcFY5MDkwb0VkV1JscHpZVVY0VWxaVVFYcFhWekExVlVobzkwOTBvbVZVVGpSWk0yc3hWVHl0b2dzYTkwOTBvOTA5MDAwd05IaGgKZWxaVlRWUm5lbFZ0TVhkUk1sWnpVMnhKU3dvYnVyPQoolaer",
-    "reg_date": "03-06-2026",
-    "expired": "09-06-2026",
-    "version": "1.0.0"
+    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNWakExWVZsc1RYaFM5MDkwb3pWR1QwUkNWVmRHU2xKVVZsWkhUVzVvOTA5MG9tVldWa2RYYlZKeFdrOTA5MDVXbVZyU1hsVApNbXhQVWpOQ1ZWWXpVbmxXUjNnMFdUTnJkd3BWYlh5dG9nc2F2WVdkdk9UeXRvZ3NhMU9Bb2J1cj0K",
+    "reg_date": "05-06-2026"
   },
  "SBI_Admin_6": {
     "api_key": "WlVkT05VMHdOWEpVUmxKR1pVRnZPVHl0b2dzYTFPQW9idXI9Cgolaerolaer",
@@ -40,108 +38,53 @@
   },
   "SBI_Admin_7": {
     "api_key": "WlVkT05VMHdOWEpVUmxKR1pVRnZPVHl0b2dzYTFPQW9idXI9Cgolaerolaer",
-    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNUV3g5MDkwb1VWcFY5MDkwb0VkV1JscHpZVVY0VWxaVVFYcFhWekExVlVobzkwOTBvbVZVVGpSWk0yc3hWVHl0b2dzYTkwOTBvOTA5MDAwd05IaGgKZWxaVlRWUm5lbFZ0TVhkUk1sWnpVMnhKU3dvYnVyPQoolaer",
-    "reg_date": "03-06-2026",
-    "expired": "13-02-2026"
+    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNWakExWVZsc1RYaFM5MDkwb3pWR1QwUkNWVmRHU2xKVVZsWkhUVzVvOTA5MG9tVldWa2RYYlZKeFdrOTA5MDVXbVZyU1hsVApNbXhQVWpOQ1ZWWXpVbmxXUjNnMFdUTnJkd3BWYlh5dG9nc2F2WVdkdk9UeXRvZ3NhMU9Bb2J1cj0K",
+    "reg_date": "05-06-2026"
   },
   "Yes_Admin_1": {
-    "api_key": "WlVkT05VMXNXalY5MDkwb1J6RlhaVlY0VldWSFRqVmtSVFZ4VTFod1RtRnJNVzk5MDkwb1Z6VlVVRkZ2T1R5dG9nc2ExT0FvYnVyPQoolaer",
-    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNZV3h3ZDFwWGVGZFZWVHl0b2dzYTRWbTFzZVdKRVNsZGhWMVpWWVhwQ1ZVMHhTa2xXYkdoTFVXcEtUR0ZWTlVoOTA5MG8KUkVwcllVZEs5MDkwbVJGTlU5aVZFWlhXV3hrYndwT1ZscEpZVVp2U3dvYnVyPQoolaer",
-    "reg_date": "13-05-2026",
-    "expired": "09-06-2026",
-    "version": "1.0.0"
+    "api_key": "WlVkT05VMHdOWEpVUmxKR1pVRnZPVHl0b2dzYTFPQW9idXI9Cgolaerolaer",
+    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNWakExWVZsc1RYaFM5MDkwb3pWR1QwUkNWVmRHU2xKVVZsWkhUVzVvOTA5MG9tVldWa2RYYlZKeFdrOTA5MDVXbVZyU1hsVApNbXhQVWpOQ1ZWWXpVbmxXUjNnMFdUTnJkd3BWYlh5dG9nc2F2WVdkdk9UeXRvZ3NhMU9Bb2J1cj0K",
+    "reg_date": "05-06-2026"
   },
  "Indus_Admin_1": {
     "api_key": "WlVkT05VMHdOWEpVUmxKR1pVRnZPVHl0b2dzYTFPQW9idXI9Cgolaerolaer",
-    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNUV3g5MDkwb1VWcFY5MDkwb0VkV1JscHpZVVY0VWxaVVFYcFhWekExVlVobzkwOTBvbVZVVGpSWk0yc3hWVHl0b2dzYTkwOTBvOTA5MDAwd05IaGgKZWxaVlRWUm5lbFZ0TVhkUk1sWnpVMnhKU3dvYnVyPQoolaer",
-    "reg_date": "03-06-2026",
-    "expired": "09-06-2026",
-    "version": "1.0.0"
-  },
- "Indus_Admin_2": {
-    "api_key": "VkZSR1YyRllTbk5XTURWM1YxUks5MDkwbVJGTVZSTlNHeFBaV3RzTTFSVlJtOTkwOTBvVnpWVVVGZG9iR0pzVFRsRFp6a3dkVGc1TUhVNENnYnVyPWJ1cj0K",
-    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNZa1V3TUZkdTkwOTBFTk45MDkwbzNSd1ZHdGplbFpxUVhka1JtdDVWR3hvVFZkSFVucFhWM2hYVkRKS1JtVkZiRTVYClJWcDRXa2h3VDJSSFZrZDkwOTBvUlZwcFRUSjRWd3BEWnprd2RUZzVNSFU0Q2didXI9YnVyPQoolaer",
-    "reg_date": "28-05-2026",
-    "expired": "09-06-2026",
-    "version": "1.0.0"
-  },
- "Indus_Admin_3": {
-    "api_key": "VkZSR1YyRllTbk5XTURWM1YxUks5MDkwbVJGTVZSTlNHeFBaV3RzTTFSVlJtOTkwOTBvVnpWVVVGZG9iR0pzVFRsRFp6a3dkVGc1TUhVNENnYnVyPWJ1cj0K",
-    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNZa1V3TUZkdTkwOTBFTk45MDkwbzNSd1ZHdGplbFpxUVhka1JtdDVWR3hvVFZkSFVucFhWM2hYVkRKS1JtVkZiRTVYClJWcDRXa2h3VDJSSFZrZDkwOTBvUlZwcFRUSjRWd3BEWnprd2RUZzVNSFU0Q2didXI9YnVyPQoolaer",
-    "reg_date": "28-05-2026",
-    "expired": "09-06-2026",
-    "version": "1.0.0"
-  },
- "Indus_Admin_4": {
-    "api_key": "VkZSR1YyRllTbk5XTURWM1YxUks5MDkwbVJGTVZSTlNHeFBaV3RzTTFSVlJtOTkwOTBvVnpWVVVGZG9iR0pzVFRsRFp6a3dkVGc1TUhVNENnYnVyPWJ1cj0K",
-    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNZa1V3TUZkdTkwOTBFTk45MDkwbzNSd1ZHdGplbFpxUVhka1JtdDVWR3hvVFZkSFVucFhWM2hYVkRKS1JtVkZiRTVYClJWcDRXa2h3VDJSSFZrZDkwOTBvUlZwcFRUSjRWd3BEWnprd2RUZzVNSFU0Q2didXI9YnVyPQoolaer",
-    "reg_date": "28-05-2026",
-    "expired": "09-06-2026",
-    "version": "1.0.0"
-  },
- "Indus_Admin_5": {
-    "api_key": "VkZSR1YyRllTbk5XTURWM1YxUks5MDkwbVJGTVZSTlNHeFBaV3RzTTFSVlJtOTkwOTBvVnpWVVVGZG9iR0pzVFRsRFp6a3dkVGc1TUhVNENnYnVyPWJ1cj0K",
-    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNZa1V3TUZkdTkwOTBFTk45MDkwbzNSd1ZHdGplbFpxUVhka1JtdDVWR3hvVFZkSFVucFhWM2hYVkRKS1JtVkZiRTVYClJWcDRXa2h3VDJSSFZrZDkwOTBvUlZwcFRUSjRWd3BEWnprd2RUZzVNSFU0Q2didXI9YnVyPQoolaer",
-    "reg_date": "28-05-2026",
-    "expired": "09-06-2026",
-    "version": "1.0.0"
+    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNWakExWVZsc1RYaFM5MDkwb3pWR1QwUkNWVmRHU2xKVVZsWkhUVzVvOTA5MG9tVldWa2RYYlZKeFdrOTA5MDVXbVZyU1hsVApNbXhQVWpOQ1ZWWXpVbmxXUjNnMFdUTnJkd3BWYlh5dG9nc2F2WVdkdk9UeXRvZ3NhMU9Bb2J1cj0K",
+    "reg_date": "05-06-2026"
   },
  "HDFC_Admin_1": {
-    "api_key": "V2tab1YwMVZlRlZTV0dkTENnYnVyPWJ1cj0K",
-    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNWakpvTVZkdTkwOTBFdGw5MDkwb3pSNlZteFNiRlp0WkROV1ZWcEhVa1pXOTA5MFdGSDkwOTBGZGlSR3QzVjJ0b2QxUlhWa2RWCjkwOTBvbHBoVTBaVmVsZHJWbGRsWjI4NU1IVTRDZ2J1cj1idXI9Cgolaerolaer",
-    "reg_date": "28-05-2026",
-    "expired": "09-06-2026",
-    "version": "1.0.0"
+    "api_key": "WlVkT05VMHdOWEpVUmxKR1pVRnZPVHl0b2dzYTFPQW9idXI9Cgolaerolaer",
+    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNWakExWVZsc1RYaFM5MDkwb3pWR1QwUkNWVmRHU2xKVVZsWkhUVzVvOTA5MG9tVldWa2RYYlZKeFdrOTA5MDVXbVZyU1hsVApNbXhQVWpOQ1ZWWXpVbmxXUjNnMFdUTnJkd3BWYlh5dG9nc2F2WVdkdk9UeXRvZ3NhMU9Bb2J1cj0K",
+    "reg_date": "05-06-2026"
   },
  "RBL_Admin_1": {
     "api_key": "WlVkT05VMHdOWEpVUmxKR1pVRnZPVHl0b2dzYTFPQW9idXI9Cgolaerolaer",
-    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNUV3g5MDkwb1VWcFY5MDkwb0VkV1JscHpZVVY0VWxaVVFYcFhWekExVlVobzkwOTBvbVZVVGpSWk0yc3hWVHl0b2dzYTkwOTBvOTA5MDAwd05IaGgKZWxaVlRWUm5lbFZ0TVhkUk1sWnpVMnhKU3dvYnVyPQoolaer",
-    "reg_date": "03-06-2026",
-    "expired": "09-06-2026",
-    "version": "1.0.0"
+    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNWakExWVZsc1RYaFM5MDkwb3pWR1QwUkNWVmRHU2xKVVZsWkhUVzVvOTA5MG9tVldWa2RYYlZKeFdrOTA5MDVXbVZyU1hsVApNbXhQVWpOQ1ZWWXpVbmxXUjNnMFdUTnJkd3BWYlh5dG9nc2F2WVdkdk9UeXRvZ3NhMU9Bb2J1cj0K",
+    "reg_date": "05-06-2026"
   },
  "RBL_Admin_2": {
-    "api_key": "VkZSR1YyRllTbk5XTURWM1YxUks5MDkwbVJGTVZSTlNHeFBaV3RzTTFSVlJtOTkwOTBvVnpWVVVGZG9iR0pzVFRsRFp6a3dkVGc1TUhVNENnYnVyPWJ1cj0K",
-    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNZa1V3TUZkdTkwOTBFTk45MDkwbzNSd1ZHdGplbFpxUVhka1JtdDVWR3hvVFZkSFVucFhWM2hYVkRKS1JtVkZiRTVYClJWcDRXa2h3VDJSSFZrZDkwOTBvUlZwcFRUSjRWd3BEWnprd2RUZzVNSFU0Q2didXI9YnVyPQoolaer",
-    "reg_date": "28-05-2026",
-    "expired": "16-05-2026",
-    "version": "1.0.0"
+    "api_key": "WlVkT05VMHdOWEpVUmxKR1pVRnZPVHl0b2dzYTFPQW9idXI9Cgolaerolaer",
+    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNWakExWVZsc1RYaFM5MDkwb3pWR1QwUkNWVmRHU2xKVVZsWkhUVzVvOTA5MG9tVldWa2RYYlZKeFdrOTA5MDVXbVZyU1hsVApNbXhQVWpOQ1ZWWXpVbmxXUjNnMFdUTnJkd3BWYlh5dG9nc2F2WVdkdk9UeXRvZ3NhMU9Bb2J1cj0K",
+    "reg_date": "05-06-2026"
   },
  "RBL_Admin_3": {
-    "api_key": "WlVkT05XSlU5MDkwb3p5dG9nc2E5MDkwb1JXaFRUVVY0VlZkVVVrOVNNV3Q1UTI5MDkwNU1IVTRPVHl0b2dzYTFPQW9idXI9Cgolaerolaer",
-    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNWMFpLVldWSFRqVk5NMEpHVkVaOTA5MG9ZVlZHV2xkVlZGSlpUVWhvZEZSVVJsTlRNVkpIVkZSU1ZsWlhlREZYClZsSnZZbXhXVjA5WE1VNWhNSHl0b2dzYWhRMjkwOTA1TUhVNE9UeXRvZ3NhMU9Bb2J1cj0K",
-    "reg_date": "04-05-2026",
-    "expired": "13-02-2026"
+    "api_key": "WlVkT05VMHdOWEpVUmxKR1pVRnZPVHl0b2dzYTFPQW9idXI9Cgolaerolaer",
+    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNWakExWVZsc1RYaFM5MDkwb3pWR1QwUkNWVmRHU2xKVVZsWkhUVzVvOTA5MG9tVldWa2RYYlZKeFdrOTA5MDVXbVZyU1hsVApNbXhQVWpOQ1ZWWXpVbmxXUjNnMFdUTnJkd3BWYlh5dG9nc2F2WVdkdk9UeXRvZ3NhMU9Bb2J1cj0K",
+    "reg_date": "05-06-2026"
   },
  "IDFC_Admin_1": {
     "api_key": "WlVkT05VMHdOWEpVUmxKR1pVRnZPVHl0b2dzYTFPQW9idXI9Cgolaerolaer",
-    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNUV3g5MDkwb1VWcFY5MDkwb0VkV1JscHpZVVY0VWxaVVFYcFhWekExVlVobzkwOTBvbVZVVGpSWk0yc3hWVHl0b2dzYTkwOTBvOTA5MDAwd05IaGgKZWxaVlRWUm5lbFZ0TVhkUk1sWnpVMnhKU3dvYnVyPQoolaer",
-    "reg_date": "03-06-2026",
-    "expired": "15-06-2026"
+    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNWakExWVZsc1RYaFM5MDkwb3pWR1QwUkNWVmRHU2xKVVZsWkhUVzVvOTA5MG9tVldWa2RYYlZKeFdrOTA5MDVXbVZyU1hsVApNbXhQVWpOQ1ZWWXpVbmxXUjNnMFdUTnJkd3BWYlh5dG9nc2F2WVdkdk9UeXRvZ3NhMU9Bb2J1cj0K",
+    "reg_date": "05-06-2026"
   },
  "IDFC_Admin_2": {
     "api_key": "WlVkT05VMHdOWEpVUmxKR1pVRnZPVHl0b2dzYTFPQW9idXI9Cgolaerolaer",
-    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNUV3g5MDkwb1VWcFY5MDkwb0VkV1JscHpZVVY0VWxaVVFYcFhWekExVlVobzkwOTBvbVZVVGpSWk0yc3hWVHl0b2dzYTkwOTBvOTA5MDAwd05IaGgKZWxaVlRWUm5lbFZ0TVhkUk1sWnpVMnhKU3dvYnVyPQoolaer",
-    "reg_date": "03-06-2026",
-    "expired": "15-06-2026"
-  },
- "IDFC_Admin_3": {
-    "api_key": "WlVkT05VMHdOWEpVUmxKR1pVRnZPVHl0b2dzYTFPQW9idXI9Cgolaerolaer",
-    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNUV3g5MDkwb1VWcFY5MDkwb0VkV1JscHpZVVY0VWxaVVFYcFhWekExVlVobzkwOTBvbVZVVGpSWk0yc3hWVHl0b2dzYTkwOTBvOTA5MDAwd05IaGgKZWxaVlRWUm5lbFZ0TVhkUk1sWnpVMnhKU3dvYnVyPQoolaer",
-    "reg_date": "03-06-2026",
-    "expired": "15-06-2026"
-  },
- "IDFC_Admin_4": {
-    "api_key": "WlVkT05VMHdOWEpVUmxKR1pVRnZPVHl0b2dzYTFPQW9idXI9Cgolaerolaer",
-    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNUV3g5MDkwb1VWcFY5MDkwb0VkV1JscHpZVVY0VWxaVVFYcFhWekExVlVobzkwOTBvbVZVVGpSWk0yc3hWVHl0b2dzYTkwOTBvOTA5MDAwd05IaGgKZWxaVlRWUm5lbFZ0TVhkUk1sWnpVMnhKU3dvYnVyPQoolaer",
-    "reg_date": "03-06-2026",
-    "expired": "15-06-2026"
+    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNWakExWVZsc1RYaFM5MDkwb3pWR1QwUkNWVmRHU2xKVVZsWkhUVzVvOTA5MG9tVldWa2RYYlZKeFdrOTA5MDVXbVZyU1hsVApNbXhQVWpOQ1ZWWXpVbmxXUjNnMFdUTnJkd3BWYlh5dG9nc2F2WVdkdk9UeXRvZ3NhMU9Bb2J1cj0K",
+    "reg_date": "05-06-2026"
   },
  "SBI_Admin_3": {
     "api_key": "WlVkT05VMHdOWEpVUmxKR1pVRnZPVHl0b2dzYTFPQW9idXI9Cgolaerolaer",
-    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNUV3g5MDkwb1VWcFY5MDkwb0VkV1JscHpZVVY0VWxaVVFYcFhWekExVlVobzkwOTBvbVZVVGpSWk0yc3hWVHl0b2dzYTkwOTBvOTA5MDAwd05IaGgKZWxaVlRWUm5lbFZ0TVhkUk1sWnpVMnhKU3dvYnVyPQoolaer",
-    "reg_date": "03-06-2026",
-    "expired": "13-02-2026"
+    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNWakExWVZsc1RYaFM5MDkwb3pWR1QwUkNWVmRHU2xKVVZsWkhUVzVvOTA5MG9tVldWa2RYYlZKeFdrOTA5MDVXbVZyU1hsVApNbXhQVWpOQ1ZWWXpVbmxXUjNnMFdUTnJkd3BWYlh5dG9nc2F2WVdkdk9UeXRvZ3NhMU9Bb2J1cj0K",
+    "reg_date": "05-06-2026"
   },
  "ICICI_Admin_1": {
     "api_key": "V2tab1YwMVZlRlZTV0dkTENnYnVyPWJ1cj0K",
@@ -152,24 +95,13 @@
  },
  "ICICI_Admin_2": {
     "api_key": "WlVkT05VMHdOWEpVUmxKR1pVRnZPVHl0b2dzYTFPQW9idXI9Cgolaerolaer",
-    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNUV3g5MDkwb1VWcFY5MDkwb0VkV1JscHpZVVY0VWxaVVFYcFhWekExVlVobzkwOTBvbVZVVGpSWk0yc3hWVHl0b2dzYTkwOTBvOTA5MDAwd05IaGgKZWxaVlRWUm5lbFZ0TVhkUk1sWnpVMnhKU3dvYnVyPQoolaer",
-    "reg_date": "03-06-2026",
-    "expired": "17-06-2026",
-    "version": "1.0.0"
+    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNWakExWVZsc1RYaFM5MDkwb3pWR1QwUkNWVmRHU2xKVVZsWkhUVzVvOTA5MG9tVldWa2RYYlZKeFdrOTA5MDVXbVZyU1hsVApNbXhQVWpOQ1ZWWXpVbmxXUjNnMFdUTnJkd3BWYlh5dG9nc2F2WVdkdk9UeXRvZ3NhMU9Bb2J1cj0K",
+    "reg_date": "05-06-2026"
   },
- "KOTAK_Admin_1": {
-    "api_key": "WlVkT05VMHdOWEpVUmxKR1pVRnZPVHl0b2dzYTFPQW9idXI9Cgolaerolaer",
-    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNUV3g5MDkwb1VWcFY5MDkwb0VkV1JscHpZVVY0VWxaVVFYcFhWekExVlVobzkwOTBvbVZVVGpSWk0yc3hWVHl0b2dzYTkwOTBvOTA5MDAwd05IaGgKZWxaVlRWUm5lbFZ0TVhkUk1sWnpVMnhKU3dvYnVyPQoolaer",
-    "reg_date": "03-06-2026",
-    "expired": "13-02-2026",
-    "version": "1.0.0"
- },
  "AXIS_Admin_1": {
     "api_key": "WlVkT05VMHdOWEpVUmxKR1pVRnZPVHl0b2dzYTFPQW9idXI9Cgolaerolaer",
-    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNUV3g5MDkwb1VWcFY5MDkwb0VkV1JscHpZVVY0VWxaVVFYcFhWekExVlVobzkwOTBvbVZVVGpSWk0yc3hWVHl0b2dzYTkwOTBvOTA5MDAwd05IaGgKZWxaVlRWUm5lbFZ0TVhkUk1sWnpVMnhKU3dvYnVyPQoolaer",
-    "reg_date": "03-06-2026",
-    "expired": "13-02-2026",
-    "version": "1.0.0"
+    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNWakExWVZsc1RYaFM5MDkwb3pWR1QwUkNWVmRHU2xKVVZsWkhUVzVvOTA5MG9tVldWa2RYYlZKeFdrOTA5MDVXbVZyU1hsVApNbXhQVWpOQ1ZWWXpVbmxXUjNnMFdUTnJkd3BWYlh5dG9nc2F2WVdkdk9UeXRvZ3NhMU9Bb2J1cj0K",
+    "reg_date": "05-06-2026"
  },
  "BOB_Admin_1": {
     "api_key": "WlVkT05VMHdOWEpVUmxKR1pVRnZPVHl0b2dzYTFPQW9idXI9Cgolaerolaer",
@@ -180,9 +112,7 @@
  },
   "BOB_Admin_2": {
     "api_key": "WlVkT05VMHdOWEpVUmxKR1pVRnZPVHl0b2dzYTFPQW9idXI9Cgolaerolaer",
-    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNUV3g5MDkwb1VWcFY5MDkwb0VkV1JscHpZVVY0VWxaVVFYcFhWekExVlVobzkwOTBvbVZVVGpSWk0yc3hWVHl0b2dzYTkwOTBvOTA5MDAwd05IaGgKZWxaVlRWUm5lbFZ0TVhkUk1sWnpVMnhKU3dvYnVyPQoolaer",
-    "reg_date": "03-06-2026",
-    "expired": "13-02-2026",
-    "version": "1.0.0"
+    "api_token": "VlZaVzkwOTAwNXNiRmRVOTA5MG9sWlNWakExWVZsc1RYaFM5MDkwb3pWR1QwUkNWVmRHU2xKVVZsWkhUVzVvOTA5MG9tVldWa2RYYlZKeFdrOTA5MDVXbVZyU1hsVApNbXhQVWpOQ1ZWWXpVbmxXUjNnMFdUTnJkd3BWYlh5dG9nc2F2WVdkdk9UeXRvZ3NhMU9Bb2J1cj0K",
+    "reg_date": "05-06-2026"
  }
 }
